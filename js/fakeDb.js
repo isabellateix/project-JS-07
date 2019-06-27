@@ -1,6 +1,6 @@
-var dados = {
+const dados = {
   "login": "isabellateix",
-  "id": 51347086,
+  "id": "51347086",
   "node_id": "MDQ6VXNlcjUxMzQ3MDg2",
   "avatar_url": "https://avatars3.githubusercontent.com/u/51347086?v=4",
   "gravatar_id": "",
